@@ -1,0 +1,13 @@
+Drag aGlow.CT into a.Cheat Engine Glow.exe and it will open. so open glow folder now
+
+
+Youtube Video Instruction Tutuorial! you really should watch this its a lot better explained you will only need it once!!
+https://www.youtube.com/channel/UCvXnleDtdL_Hej0-vNMlKNA
+
+
+IF YOU WANT TO BE CONSTANTLY CHANGING COLORS AFK THEN USE THIS!!
+First download Auto Hot Key (Download is in the hacks folder) 
+you can run the Constant AFK Color Changing Script Which Will Constantly Change Your color
+Note it will spam (default) it will spam the volume down key which is the hotkey to change color.
+---- enable this with the 8 key on your keyboard once you have Downloaded auto hot key extracted it then installed it you
+need to open THE Constant AFK Color Changing Script with autohotkeyU64 then toggle it on or off using 8.
